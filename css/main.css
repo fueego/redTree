@@ -1,0 +1,52 @@
+small{
+    display: block;
+    padding-bottom: 20px;
+}
+
+
+
+.hideMe{
+    display: none;
+}
+
+
+
+.singleCol {
+    margin: 20px 0;
+}
+
+    .showPlace {
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+
+        border: 1px solid #e7e7e7;
+        background-color: #f7f7f7;
+
+        padding: 20px;
+    }
+
+        .btn-default {
+            display: inline-block;
+        }
+
+        .text {
+            padding-left: 20px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
